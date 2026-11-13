@@ -1,4 +1,4 @@
-# EasyFood — Atividade 8
+# EasyFood 
 
 API acadêmica construída com Node.js, Express, Prisma e PostgreSQL. Inclui autenticação JWT, cadastro e consulta de restaurantes e pratos, upload de imagem de perfil e upload de imagem dos pratos.
 
